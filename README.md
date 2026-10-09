@@ -57,6 +57,5 @@ Explorando o mundo da tecnologia, aprendendo na prática e construindo projetos 
 
 **Sempre aprendendo, evoluindo e construindo algo novo.** 💜
 
-<sub>Feito com dedicação por Sophia • 2026</sub>
 
 </div>
