@@ -9,7 +9,7 @@
 Explorando o mundo da tecnologia, aprendendo na prática e construindo projetos para evoluir como desenvolvedora.
 
 [![Email](https://img.shields.io/badge/Email-sophia.sophis%40icloud.com-BA8BFF?style=for-the-badge&logo=icloud&logoColor=white)](mailto:sophia.sophis@icloud.com)
-[![Link de contato](www.linkedin.com/in/sophia-silveira-9325493a1)
+[![Link de contato](https://img.shields.io/badge/Contato-LinkedIn-BA8BFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-silveira-9325493a1)
 
 </div>
 
@@ -47,7 +47,7 @@ Explorando o mundo da tecnologia, aprendendo na prática e construindo projetos 
 ## 📫 Contato
 
 - **E-mail:** [sophia.sophis@icloud.com](mailto:sophia.sophis@icloud.com)
-- **LinkedIn / contato:** [Abrir link informado](https://teams.cloud.microsoft/l/message/48:notes/1791555412757?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A718e45d6-2b55-429b-9b53-c2640d2acef8%22%7D)
+- **LinkedIn / contato:** [Meu LinkedIn](https://www.linkedin.com/in/sophia-silveira-9325493a1)
 
 ---
 
